@@ -1,8 +1,8 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> v2.1.3 MIVAAN </h1>
-    <h1> Devops CICD test under java develoment <h1>
+    <h1> v2.1.4 MIVAAN </h1>
+    <h1> Devops CICD test under java develoment using FLAT VM <h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
