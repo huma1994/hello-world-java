@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> v2024a Running via CICD ok k8 </h1>  
+    <h1> v2024 apple  Running via CICD ok k8 </h1>  
     <marquee><h2> .....Buddha was born in  NEPAL Divya love u</h2> </marquee>
     <h1> Devops CICD test under java develoment  <h1>
 
