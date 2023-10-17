@@ -1,9 +1,9 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> v20.1222222 apple  Running via CICD ok k8 </h1>  
-    <marquee><h2>  Divya love u</h2> </marquee>
-    <h1> Devops CICD test under java develoment  <h1>
+    <h1> v20.13333333333 apple  Running via CICD ok k8 </h1>  
+    <marquee><h2>  SANJEEV u R BEST </h2> </marquee>
+    <h1> Devops CICD test under HOME develoment  <h1>
 
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
