@@ -1,8 +1,8 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> v2024 ball  Running via CICD ok k8 </h1>  
-    <marquee><h2> .....Buddha was born in  NEPAL Divya love u</h2> </marquee>
+    <h1> v20.11 ball  Running via CICD ok k8 </h1>  
+    <marquee><h2>  Divya love u</h2> </marquee>
     <h1> Devops CICD test under java develoment  <h1>
 
     <h1>New user Register for DevOps Learning</h1>
