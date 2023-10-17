@@ -1,9 +1,9 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> v20.4444444   Running via CICD ok k8 </h1>  
-    <marquee><h2>  SANJEEV THAPA LOVES DIVYA DARLAMI </h2> </marquee>
-    <h1> Devops CICD test under HOME develoment  <h1>
+    <h1> v66.12.356  Running via CICD ok k8 </h1>  
+    <marquee><h2>  Er . SANJEEV THAPA LOVES DIVYA DARLAMI </h2> </marquee>
+    <h1> CICD using jkins ansible kubernettics git  <h1>
 
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
