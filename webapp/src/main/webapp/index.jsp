@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> vcore20.18.78  Running via CICD ok k8  </h1>  
+    <h1> vcore20.18.78  Running via CICD ok k88  </h1>  
     <marquee><h2>  Choli and mivaan thapa </h2> </marquee>
     <h1> CICD using jkins ansible kubernettics git  <h1>
 
