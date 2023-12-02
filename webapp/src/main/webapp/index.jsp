@@ -1,9 +1,9 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> ver xx,11  Running via CICD vis jenkins docker  </h1>  
+    <h1> ver xx.11.22  Running via CICD vis jenkins docker  </h1>  
     <marquee><h2>  Sanjeev Thapa using docker and jenkins </h2> </marquee>
-    <h1> Love you Divya Darlami Magar <h1>
+    <h1> You are motivations Sanjeev Sir <h1>
 
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
