@@ -1,9 +1,9 @@
 <form action="action_page.php">
   <div class="container">
 
-    <h1> vcore20.18.78  Running via CICD ok k88  </h1>  
-    <marquee><h2>  Choli and mivaan thapa </h2> </marquee>
-    <h1> CICD using jkins ansible kubernettics git  <h1>
+    <h1> ver 11.22.33  Running via CICD ok k88  </h1>  
+    <marquee><h2>  Sanjeev Thapa using docker and jenkins </h2> </marquee>
+    <h1> Love you DIvya <h1>
 
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
